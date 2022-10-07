@@ -13,5 +13,5 @@ async def search_system_filter(_, message):
         else:
             raise TypeError('Exception: wrong search system in config')
 
-    response_text = message.text.split('.search', maxsplit=1)[1]
+    response_text = message.text.split('.search ', maxsplit=1)[1]
     await message.edit(await search(response_text))

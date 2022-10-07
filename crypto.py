@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 
 @app.on_message(filters.command('capitalization', prefixes='.') & filters.me)
-async def get_capitalization(_, message):
+async def get_popular_capitalization(_, message):
     r = requests.get(
         "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=5&page=1",
         headers={'User-Agent': 'Mozilla/5.0'}
@@ -60,10 +60,11 @@ async def get_all_crypto_coins(_, message):
 
 @app.on_message(filters.command('crypto_dynamic', prefixes='.') & filters.me)
 async def get_crypto_dynamic(_, message):
-    type_of_crypto = message.text.split('.crypto_dynamic ', maxsplit=1)[1]
+    type_of_crypto = message.text.split()
+    print(type_of_crypto)
 
     r = requests.get(
-        f"https://api.coingecko.com/api/v3/coins/{type_of_crypto}/market_chart?vs_currency=usd&days=365",
+        f"https://api.coingecko.com/api/v3/coins/{type_of_crypto[1]}/market_chart?vs_currency=usd&days={type_of_crypto[2]}",
          headers={'User-Agent': 'Mozilla/5.0'}
     )
 
@@ -83,13 +84,13 @@ async def get_crypto_dynamic(_, message):
         ax1 = df_ydynamic['price'].plot(secondary_y=True, style='r')
         ax1.set_ylabel('price')
 
-        ax.set_title(f"{type_of_crypto} market cap and price changes")
+        ax.set_title(f"{type_of_crypto[1]} market cap and price changes")
         h1, l1 = ax.get_legend_handles_labels()
         h2, l2 = ax1.get_legend_handles_labels()
         ax.legend(h1 + h2, l1 + l2)
         plt.savefig('res/dynamic.png')
 
-        await message.edit(f'{type_of_crypto} market cap and price changes')
+        await message.edit(f'{type_of_crypto[1]} market cap and price changes')
         await app.send_photo(message.chat.id, 'res/dynamic.png')
     else:
         print('Cannot send the response to API')

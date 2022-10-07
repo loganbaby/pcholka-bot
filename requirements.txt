@@ -1,0 +1,5 @@
+pyrogram
+google
+requests
+pandas
+matplotlib

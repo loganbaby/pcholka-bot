@@ -161,7 +161,6 @@
 2local-2
 2omb-finance
 2share
-2x2
 300fit
 30mb-token
 37protocol
@@ -1414,6 +1413,7 @@ beast-nft
 beatbind
 beatzcoin
 beau-cat
+beauty-bakery-linked-operation-transaction-technology
 beavis-and-butthead
 becoswap-token
 bedrock
@@ -1765,7 +1765,6 @@ bitwhite
 bitwin24
 bitz
 bitzen
-bitzeny
 bitzipp
 bixb-coin
 bixcpro
@@ -1968,6 +1967,7 @@ boo-mirrorworld
 boorio
 boost
 boosted-finance
+boosted-lusd
 booster
 boosto
 boozedoge
@@ -2036,7 +2036,6 @@ bridge-oracle
 bridgesplit-brand-index
 bridgetech-usdt
 brig-finance
-bright-risk-index
 bright-token
 bright-union
 brightypad
@@ -2068,7 +2067,6 @@ bscpad
 bscstarter
 bsc-station
 bscview
-bscwin-bulls
 bsdium
 bsha3
 bsocial
@@ -2564,7 +2562,6 @@ cloudtx
 cloutcontracts
 clover
 clover-finance
-clqdr
 club-atletico-independiente
 club-donkey
 clube-atletico-mineiro-fan-token
@@ -2869,7 +2866,6 @@ crime-gold
 crinet
 cripco
 crir-msh
-croat
 croblanc
 crodex
 crogecoin
@@ -2898,7 +2894,6 @@ crosspad
 crossswap
 crosswallet
 crossx
-crotama
 crowd
 crowdclassic
 crowd-global
@@ -3220,7 +3215,6 @@ dark-matter-defi
 darkness-dollar
 darkness-share
 darkopera-finance
-darkpaycoin
 dark-planet
 darkshield
 darleygo-essence
@@ -3956,7 +3950,6 @@ ecs-gold
 e-c-vitoria-fan-token
 edac
 edain
-edc-blockchain
 eddaswap
 eden
 edenchain
@@ -4379,7 +4372,6 @@ fabric
 fabwelt
 face
 facebook-tokenized-stock-defichain
-facebook-tokenized-stock-zipmex
 facedao
 face-meta-2-0
 face-vault-nftx
@@ -4401,12 +4393,12 @@ falcon-swaps
 falcon-token
 falconx
 fame-mma
+fame-reward-plus
 familyparty
 famous-coin
 famous-five
 famous-fox-federation
 fam-token
-fan8
 fanadise
 fanbi-token
 fanc
@@ -4943,6 +4935,7 @@ gamma
 gamma-strategies
 gamma-token
 gamyfi-token
+gandercoin
 gangstabet
 gan-punks
 gapcoin
@@ -5212,7 +5205,6 @@ good-person-coin
 gooeys
 goofydoge
 google-tokenized-stock-defichain
-google-tokenized-stock-zipmex
 goons-of-balatroon
 goose-finance
 goosefx
@@ -5245,6 +5237,7 @@ gram
 grape-2
 grape-finance
 grapefruit-coin
+grapeswap-finance
 grape-token
 graphen
 graphene
@@ -6245,6 +6238,7 @@ kangal
 kangaroo
 kanpeki
 kaoya
+kapital-dao
 kappa
 karastar-kara
 karastar-umy
@@ -6352,6 +6346,7 @@ kingdom-clash
 kingdom-game-4-0
 kingdom-karnage
 kingdom-quest
+kingdom-raids
 kingdomswap
 kingdomswap-2
 kingdomx
@@ -6588,7 +6583,6 @@ latoken
 latteswap
 lattice-token
 launchblock
-launchmynft
 launchpool
 launchwall
 launchzone
@@ -7153,7 +7147,11 @@ max-bidding
 maxcoin
 maximizer
 maximus
+maximus-base
 maximus-dao
+maximus-deci
+maximus-lucky
+maximus-trio
 maxity
 maxonrow
 max-property-group
@@ -7275,6 +7273,7 @@ menapay
 mend
 menzy
 meong-token
+meowcoin
 meownaut
 meowswap-token
 merchant-token
@@ -7902,7 +7901,6 @@ movingon-finance
 movn
 mozik
 mozox
-mozza
 mp3
 mrweb-finance
 mrweb-finance-2
@@ -7986,6 +7984,7 @@ mymessage
 my-neighbor-alice
 myobu
 my-pandaverse
+mypiggiesbank
 myriadcoin
 myriad-social
 mysterium
@@ -8093,13 +8092,13 @@ netbox-coin
 netcoin
 netcoincapital
 netflix-tokenized-stock-defichain
-netflix-tokenized-stock-zipmex
 nether
 netkoin
 netm
 neton
 netswap
 netvrk
+netzero
 neumark
 neuralink
 neural-protocol
@@ -8113,6 +8112,7 @@ neuy
 newb-farm
 new-bitshares
 newdex-token
+new-earth-order-money
 new-frontier-presents
 newinu
 new-landbox
@@ -8123,7 +8123,6 @@ new-power-coin
 newscrypto-coin
 newsolution
 newsolution-2-0
-newton-coin-project
 newton-project
 newtowngaming
 new-world-order
@@ -8361,7 +8360,6 @@ o3-swap
 o5o
 oasis-2
 oasis-city
-oasis-gold
 oasis-network
 oasis-token
 oath
@@ -8752,7 +8750,6 @@ par-stablecoin
 particl
 particle-2
 particle-technology
-partisia-blockchain
 partneroid
 parts-of-four-coin
 partyfi
@@ -8794,7 +8791,6 @@ paygo
 pay-it-now
 paymastercoin
 paynet-coin
-paypal-tokenized-stock-zipmex
 paypie
 paypolitan-token
 payrue
@@ -8965,6 +8961,7 @@ pinksale
 pinkslip-finance
 pinkswap-token
 pintu-token
+piogold
 piplcoin
 pippi-finance
 pi-protocol
@@ -9223,7 +9220,6 @@ pop
 pop-chest-token
 popcorn
 popkon
-popop-world
 populous
 populous-xbrl-token
 poriot
@@ -9819,6 +9815,7 @@ rise-of-empire
 rise-of-nebula
 riseupv2
 risu
+risuchainswap
 ritestream
 rito
 ri-token
@@ -10059,6 +10056,7 @@ salary
 salary-mining
 salmon
 salmonation
+salo-players
 salt
 saltmarble
 salus
@@ -10126,6 +10124,7 @@ sbu-honey
 scalara-nft-index
 scaleswap-token
 scallop
+scalpingcoin
 scan-defi
 scanetchain
 scarab-finance
@@ -10576,6 +10575,7 @@ smileycoin
 smolting-inu
 smooth-love-potion
 smoothy
+smpcoin
 smscodes
 smurfsinu
 snail-trail
@@ -10836,6 +10836,7 @@ spherium
 spheroid-universe
 sphinxel
 sphynx
+sphynxfi
 sphynx-labs
 spice
 spice-dao
@@ -11453,7 +11454,6 @@ thegcccoin
 the-genesis-block
 the-golden-dog
 the-graph
-the-graph-wormhole
 the-hash-speed
 theholyrogercoin
 the-husl
@@ -11857,7 +11857,6 @@ tvt
 twelve-legions
 twinci
 twirl-governance-token
-twitter-tokenized-stock-zipmex
 twoge-inu
 two-monkey-juice-bar
 txa
@@ -11905,6 +11904,7 @@ ultra-clear
 ultragate
 ultrain
 ultralpha
+ultramoc
 ultra-nft
 ultrasafe
 ultron
@@ -12465,7 +12465,6 @@ weave
 web3
 web3-all-best-ico
 web3-betting
-web3-dev
 web3-doge
 web3gold
 web3-inu
@@ -12857,7 +12856,6 @@ xptp
 xquake
 xrdoge
 xreators
-xre-global
 xrhodium
 xriba
 xrice-token

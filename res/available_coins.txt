@@ -1174,7 +1174,6 @@ babelfish
 babil-token
 baboon-financial
 baby-ada
-babyaeth
 baby-aetherius
 babyapefunclub
 baby-bali
@@ -1540,7 +1539,6 @@ billionaire-plus
 billionhappiness
 bill-murray-inu
 bill-token
-bimp-finance
 binahero
 binahunter
 binamon
@@ -2171,7 +2169,6 @@ byteex
 bytenext
 bytom
 bytz
-bzedge
 bzx-protocol
 bzzone
 c2x-2
@@ -3280,12 +3277,14 @@ decentral-games
 decentral-games-governance
 decentral-games-ice
 decentral-games-old
+decentralized-activism
 decentralized-advertising
 decentralized-asset-trading-platform
 decentralized-autonomous-organization
 decentralized-business-systems
 decentralized-community-investment-protocol
 decentralized-currency-assets
+decentralized-liquidity-program
 decentralized-machine-learning
 decentralized-mining-exchange
 decentralized-nations
@@ -3692,7 +3691,6 @@ dogeshiba
 dogeshrek
 doge-solar
 doges-spirited-howling-castle-game
-doge-strap
 dogestribute
 dogeswap
 dogetama
@@ -4257,7 +4255,6 @@ ethverse
 etitanium
 etna-metabolism
 etna-network
-etor
 etrade
 eub-chain
 euler
@@ -4279,6 +4276,7 @@ evedo
 eve-exchange
 evencoin
 everbnb
+everchain
 everdome
 everdot
 everearn
@@ -4780,7 +4778,6 @@ frog-inu
 frogswap
 frontier-token
 front-row
-frosted-cake
 frosty-floki-v2
 froyo-games
 frozentomb
@@ -4790,6 +4787,7 @@ fruits
 fruits-of-ryoshi
 frutti-dino
 frz-solar-system
+frzswap
 fsd-coin
 fsn
 fstswap-osk
@@ -5723,7 +5721,6 @@ hypercent
 hyperchain
 hyperchain-2
 hyperchain-x
-hyper-credit-network
 hyperdao
 hyper-deflate
 hyper-finance
@@ -5770,6 +5767,7 @@ icommunity
 icon
 iconiq-lab-token
 icon-usdc
+icosa
 icy-money
 idavoll-network
 ideachain
@@ -6382,7 +6380,6 @@ kitsumon
 kitsune-inu-2
 kitten-coin
 kittenfinance
-kittens-puppies
 kitty
 kittycake
 kittycoin
@@ -6547,7 +6544,6 @@ labs-protocol
 la-casa-de-papel
 laconic-network-token
 laddercaster
-la-doge-de-papel
 lady-uni
 ladz
 laeeb
@@ -6580,7 +6576,6 @@ last-survivor
 latamcash
 latiumx
 latoken
-latteswap
 lattice-token
 launchblock
 launchpool
@@ -6872,6 +6867,7 @@ lovely-swap-token
 lovepot-token
 lox-network
 lp-3pool-curve
+lp-finance
 lpi-dao
 lp-renbtc-curve
 lp-scurve
@@ -7470,7 +7466,6 @@ metavault-dao
 metavault-trade
 metavegas
 metaverseair
-metaverse-all-best-ico
 metaverse-box-game
 metaverse-dao
 metaverse-dog
@@ -8594,6 +8589,7 @@ organix
 orica
 orient-walt
 original-crypto-coin
+origindao
 origin-dollar
 origin-dollar-governance
 origin-protocol
@@ -9553,7 +9549,6 @@ rainmaker-games
 rainspirit
 raise-finance
 rake-finance
-rakon
 rally-2
 rally-solana
 ramcoin
@@ -9855,7 +9850,6 @@ rocket-pool
 rocket-pool-eth
 rocket-raccoon
 rocket-raccoon-v2
-rockettoken
 rockettoken-2
 rocket-video
 rocketx
@@ -10158,6 +10152,7 @@ scorum
 scotty-beam
 scouthub
 scrap
+scratch
 scream
 scriv
 scro
@@ -10169,6 +10164,7 @@ scrypta
 sea
 seachain
 seadog-metaverse
+seahorsechain
 sealem-token
 seamlessswap-token
 seancecircle
@@ -10271,7 +10267,6 @@ share-nft
 sharering
 sharity
 shark
-sharkcoin
 shar-pei
 shazu
 shd-cash
@@ -10306,6 +10301,7 @@ shiba-evil
 shiba-fantom
 shibafi
 shiba-floki
+shibaforest
 shibafriend-nft
 shibagalaxy
 shiba-inu
@@ -10520,6 +10516,7 @@ skyup
 skyward-finance
 slam-token
 slay-to-earn
+sleep
 sleepearn-finance
 sleepfuture
 sleepy-shib
@@ -10570,7 +10567,6 @@ smegmars
 smelt
 smg
 smile-coin
-smile-token
 smileycoin
 smolting-inu
 smooth-love-potion
@@ -10858,6 +10854,7 @@ splyt
 spookeletons-token
 spookyshiba-2
 spookyswap
+spooky-uni
 spool-dao-token
 spore
 spores-network
@@ -11112,7 +11109,6 @@ sukhavati-network
 suku
 sumcoin
 summer
-summoner
 summoners-arena-essence
 sumokoin
 sumotex
@@ -11935,7 +11931,6 @@ u-network
 unfederalreserve
 uniarts
 unibright
-unicake
 unicap-finance
 unicly
 unicly-aavegotchi-astronauts-collection
@@ -12756,6 +12751,8 @@ x2
 x-2
 x2y2
 x42-protocol
+x7dao
+x7r
 x8-project
 x99token
 xaea-xii-token
@@ -12989,6 +12986,7 @@ yocoin
 yocoinyoco
 yoda-coin-swap
 yodeswap
+yofune-nushi
 yogo
 yohero
 yohero-yhc
@@ -13192,6 +13190,7 @@ zuplo
 zurrency
 zusd
 zuz-protocol
+z-versus-project
 zynecoin
 zyro
 zyrri

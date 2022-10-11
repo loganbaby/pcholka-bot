@@ -11,14 +11,24 @@ TIME_NAME_ON = False
 async def display_help(_, message):
     await message.edit('''
 Functions of userbot:
+
 1. **__.search [response]__** - search info in the internet and display in message
+
 2. **__.capitalization__** - display the capitalization of popular cryptocurrencies
+
 3. **__.crypto_coins__** - get list of available cryptocurrencies for commands
+
 4. **__.get_crypto_dynamic [crypto-name] [count of days]__** - display the graphic of crypto-dynamic by count of days
+
 5. **__.spam "message" [count of messages]__** - spam by count of messages
+
 6. **__.react__** - set reaction on each message in the chat
+
 7. **__.time_avatar on__** - set the avatar like clock
-8. **__.time_avatar off__** - deactivate the time_avatar mode''')
+
+8. **__.time_avatar off__** - deactivate the time_avatar mode
+
+9. **__.quote__** - send random quote''')
 
 @app.on_message(filters.command('time_avatar on', prefixes='.'))
 def time_avatar_on(_, message):

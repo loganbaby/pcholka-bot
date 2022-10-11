@@ -19,3 +19,9 @@ async def reaction_spam(_, message):
     async for message in app.get_chat_history(message.chat.id):
         if message.reactions is None:
             await message.react(emoji=random.choice(reactions))
+
+@app.on_message(filters.command('quote', prefixes='.') & filters.all)
+async def send_quote(_, message):
+    with open(file='res/quotes.txt', mode='r', encoding='utf-8') as file:
+        lines = file.readlines()
+    await message.edit(random.choice(lines))
